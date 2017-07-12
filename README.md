@@ -13,8 +13,7 @@ _{This is a detailed description of your application. Its purpose and usage.  Gi
 | Behavior      | Input | Output |
 | ------------- | ------------- | ------------- |
 | The program
-recognizes non-alphabetical characters, since they do not contain consonants or vowels.
-  | 3  | 3  |
+recognizes non-alphabetical characters, since they do not contain consonants or vowels.| 3  | 3  |
 | Content Cell  | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  | Content Cell  |         
 | Content Cell  | Content Cell  | Content Cell  |
