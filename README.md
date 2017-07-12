@@ -14,12 +14,12 @@ _{This is a detailed description of your application. Its purpose and usage.  Gi
 | ------------- | ------------- | ------------- |
 | The program
 recognizes non-alphabetical characters, since they do not contain consonants or vowels.| 3  | 3  |
+| The program adds "way" to single-letter words beginning with a vowel.  | i  | iway |
+| For words beginning with a vowel, add "way" to the end.  | apple  | appleway  |         
+| For words beginning with one or more consonants, move all of the first consecutive consonants to the end, and add "ay". | pig  | igpay  |
+| If the first consonants include "qu", move the "u" along with the "q". | Squeal  | Ealsquay   |
+| For words beginning with "y", treat "y" as a consonant.  | yes | esyay |
 | Content Cell  | Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  | Content Cell  |         
-| Content Cell  | Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  | Content Cell  |
-
-
 
 
 * _This is a great place_
