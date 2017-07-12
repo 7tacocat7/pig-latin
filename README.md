@@ -10,7 +10,7 @@ _{This is a detailed description of your application. Its purpose and usage.  Gi
 
 ## Development Specifications
 
-| First Header  | Second Header | Third Header  | 
+| Behavior      | Input | Output | 
 | ------------- | ------------- | ------------- |
 | Content Cell  | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  | Content Cell  |
