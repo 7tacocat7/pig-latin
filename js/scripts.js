@@ -13,8 +13,8 @@ $(document).ready(function(){
     event.preventDefault();
     //line below assigns the variable regularText to equal the input value regualrText(from the form imput id = regularText)
     var regularTextInput = $("input#regularText").val();
-    // var result = pigLatinFunction(regularText);
-    // $(".result").text(result);
+    var regularTextArray = regularTextInput.split(" ");
+    alert(regularTextArray);
     $(".regularText").text(regularTextInput);
     $("#result").show();
   });
